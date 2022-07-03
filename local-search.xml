@@ -4,11 +4,106 @@
   
   
   <entry>
-    <title>Hello World</title>
-    <link href="/2022/07/02/hello-world/"/>
-    <url>/2022/07/02/hello-world/</url>
+    <title>软件推荐——一个图形化清理工具</title>
+    <link href="/2022/06/10/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%BD%A2%E5%8C%96%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7/"/>
+    <url>/2022/06/10/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%BD%A2%E5%8C%96%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7/</url>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>戳蓝字“<strong>Windows帮</strong>”关注我们哦！</p><p><img src="/../images/640-16548692132686.png" alt="图片"></p><p><strong>“</strong> 你是否遇到过这样尴尬的情况？<strong>”</strong></p><p>杀猪软件怎么也清不掉这红火的硬盘。我们需要一个工具</p><p>01</p><p>—</p><p>简绍</p><p>SpaceSniffer是一款图形化的、免费的可视化硬盘清理工具，它能够标出每个文件（夹）的准确大小，文件（夹）越大，占地越大，如图1—1</p><p><img src="/../images/640-16548692065703.png" alt="图片"></p><p>▲ 图1-1</p><p>扫描后，可在要清理的地方右击，删除，十分简便，明了，是一个清理磁盘的好选择。</p><p><img src="/../images/640.png" alt="图片"></p><p>但，清理之前最好做备份。防止误删重要文件哦~</p><p>下载：在Windows帮后台回复：002 哦</p><blockquote><p>（“Windows帮有B站帐号了。”小声叨叨）</p></blockquote><p>声明</p><p>由于一些人使用本公众号免费提供的Windows产品密钥以盈利，现将Windows所有密钥撤销。关键词“专业”“工作站”等失效，其他关键词无影响，请备份密钥，尽请谅解，谢谢。我们仍会继续做好本职工作（提供软件资源），保证我们的服务智、量。QWQ</p><p>​                                               ——闫艺涵至上</p><p>​                                             2022&#x2F;4&#x2F;29 12:20 </p><p>　　要想清楚，公众号，到底是一种怎么样的存在。既然如何， 公众号，到底应该如何实现。每个人都不得不面对这些问题。在面对这种问题时， 我认为， 我们不得不面对一个非常尴尬的事实，那就是， 要想清楚，公众号，到底是一种怎么样的存在。经过上述讨论， 对我个人而言，公众号不仅仅是一个重大的事件，还可能会改变我的人生。克劳斯·莫瑟爵士说过一句著名的话，教育需要花费钱，而无知也是一样。带着这句话, 我们还要更加慎重的审视这个问题。</p><p><img src="/../images/640-16548692219789.png" alt="图片"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>清理</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>班级内部考试（同学录）</title>
+    <link href="/2022/06/08/%E7%8F%AD%E7%BA%A7%E5%86%85%E9%83%A8%E8%80%83%E8%AF%95%EF%BC%88%E5%90%8C%E5%AD%A6%E5%BD%95%EF%BC%89/"/>
+    <url>/2022/06/08/%E7%8F%AD%E7%BA%A7%E5%86%85%E9%83%A8%E8%80%83%E8%AF%95%EF%BC%88%E5%90%8C%E5%AD%A6%E5%BD%95%EF%BC%89/</url>
+    
+    <content type="html"><![CDATA[<p>卷A</p><table><thead><tr><th align="center">姓名</th><th>分数</th></tr></thead><tbody><tr><td align="center">王*浩</td><td>98</td></tr><tr><td align="center">冯*</td><td>90</td></tr><tr><td align="center">廖*睿</td><td>100</td></tr><tr><td align="center">程*函</td><td>70</td></tr><tr><td align="center">徐*忆</td><td>99</td></tr><tr><td align="center">汪*宇</td><td>95</td></tr><tr><td align="center">杨*轩</td><td>90</td></tr><tr><td align="center">胡*欣</td><td>100</td></tr><tr><td align="center">刘*星</td><td>100</td></tr><tr><td align="center">杨*坤</td><td>100</td></tr><tr><td align="center"></td><td></td></tr></tbody></table><p>卷B</p><table><thead><tr><th align="center">姓名</th><th>分数</th></tr></thead><tbody><tr><td align="center">李*涵</td><td>50</td></tr><tr><td align="center">昂*奕</td><td>99</td></tr><tr><td align="center">张*焱</td><td>95</td></tr><tr><td align="center">邹*</td><td>90</td></tr><tr><td align="center">杨*菲</td><td>100</td></tr><tr><td align="center">张*泽</td><td>90</td></tr><tr><td align="center">方*远</td><td>95</td></tr><tr><td align="center">张*涵</td><td>90</td></tr><tr><td align="center">郑*铭</td><td>95</td></tr><tr><td align="center">刘*菲</td><td>85</td></tr><tr><td align="center">甘*怡</td><td>100</td></tr><tr><td align="center">高*烜</td><td>80</td></tr><tr><td align="center">胡*城</td><td>0</td></tr><tr><td align="center">李*赐</td><td>80</td></tr><tr><td align="center">邰*豪</td><td>100</td></tr><tr><td align="center"></td><td></td></tr></tbody></table><p>卷C</p><table><thead><tr><th align="center">姓名</th><th>分数</th></tr></thead><tbody><tr><td align="center">方*盈</td><td>95</td></tr><tr><td align="center">张*琳</td><td>85</td></tr><tr><td align="center">况*柏</td><td>50</td></tr><tr><td align="center">陈*然</td><td>70</td></tr><tr><td align="center">汪*迪</td><td>90</td></tr><tr><td align="center">耿*</td><td>80</td></tr><tr><td align="center">赵*鹏</td><td>-100</td></tr><tr><td align="center">徐*瑞</td><td>50</td></tr><tr><td align="center">杨*琪</td><td>100</td></tr><tr><td align="center">俞*博</td><td>95</td></tr><tr><td align="center">朱*悦</td><td>87</td></tr><tr><td align="center"></td><td></td></tr></tbody></table><p>卷C</p><table><thead><tr><th align="center">姓名</th><th>成绩</th></tr></thead><tbody><tr><td align="center">陶*樊</td><td>100</td></tr><tr><td align="center">李*彤</td><td>90</td></tr><tr><td align="center"></td><td></td></tr></tbody></table>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>删</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>DesktopGoose——奇葩桌面宠物</title>
+    <link href="/2022/06/05/DesktopGoose%E2%80%94%E2%80%94%E5%A5%87%E8%91%A9%E6%A1%8C%E9%9D%A2%E5%AE%A0%E7%89%A9/"/>
+    <url>/2022/06/05/DesktopGoose%E2%80%94%E2%80%94%E5%A5%87%E8%91%A9%E6%A1%8C%E9%9D%A2%E5%AE%A0%E7%89%A9/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p>本文作者Mr. L.</p></blockquote><p>大家好，我是Mr L，今天由我来给大家说说桌面宠物吧。</p><p>相信大家对桌面宠物略有耳闻吧，比如UPUPOO中的桌面宠物：</p><p><img src="/../images/640-165439827956828.png" alt="图片"></p><p>即今天我给大家安利一款不用钱也能使用的桌面宠物DesktopGoose（安装包在下面，请自行食用，此为修改版），这款软件的宠物十分乖巧，人畜有无害。</p><p><img src="/../images/640-165439827639325.png" alt="图片"></p><p>接下来我来教大家食用，先下载安装包，</p><p>​                                                                               <img src="/../images/640-165439825955119.png" alt="图片"> </p><p><img src="/../images/640-165439826563622.png" alt="图片"></p><p>打开后点击第七项，后缀为exe的，打开后就会得到一只专属于你的鸭鸭了。</p><p>它时不时就会抓住你的鼠标到处遛弯，也会拖出来一些窗口，甚至能把你锻炼成一位秋名山车神。。。甚至可以在你的电脑桌面上留下一个个脏脚印（会自动消失）</p><p><img src="/../images/640-16543982306547.png" alt="图片"></p><p><img src="/../images/640-165439823546110.png" alt="图片"></p><p><img src="/../images/640-165439824024813.png" alt="图片"></p><p><img src="/../images/640-165439824525416.png" alt="图片"></p><p>不过大家难免对他产生厌烦，我们可以这样关闭：</p><p>打开Close Goose.bat</p><p><img src="/../images/640-16543982112624.png" alt="图片"></p><p>也可以长按ESC键关闭</p><blockquote><p>（提示：本程序占用内存，不能使用太多，回复001后台获取安装包）</p></blockquote><p><em><strong>To be continued……</strong></em></p><p><img src="/../images/6140.png" alt="图片"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>桌面宠物</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>office激活攻略</title>
+    <link href="/2022/06/04/officee%E6%BF%80%E6%B4%BB%E6%94%BB%E7%95%A5/"/>
+    <url>/2022/06/04/officee%E6%BF%80%E6%B4%BB%E6%94%BB%E7%95%A5/</url>
+    
+    <content type="html"><![CDATA[<p><del>用正版软件一直爽，office要钱怎么办？买呗，4百多一年，人傻钱多的最佳选择（狗头🐶）</del></p><p>上面是说着玩，Microsoft365也有破解方法，办法总比困难多有一款软件可以帮助我们，名叫：office tool下载链接在文末，使用之前先卸载WPS。</p><p><img src="/../images/640.png" alt="图片"></p><p>这是我的office，可见已经激活，也没有盗版软件的横幅和弹窗。体验感觉很好。</p><p> 这个软件激活的office是正版，简单易用，现在来简单看一下安装与激活步骤。</p><hr><p>1.先下载Microsoft Runtime x64，点击setup.bat就可以跳转到网页。</p><p><img src="/../images/640-16543471087666.png" alt="图片"></p><hr><p>2.安装好后，点击Office Tool Plus.exe，点击部署。</p><p><img src="/../images/640-16543470978033.png" alt="图片"></p><p>我的已经下载了一个了，所以有卸载按钮（U）。</p><hr><p>3.在office专业增强版2021和office专业增强版2019之间选择一个喜爱的版本，选择企业长期通道（ps：不要问我为什么，只有这样才能激活。）点击部署，开始下载下载完成后点激活。</p><blockquote><p>必须是企业长期通道哦</p></blockquote><p><img src="/../images/640-16543969829293.png" alt="图片"></p><hr><p>4.先点击安装许可证旁边的倒三角，选择清除所有许可证（ps：不要问我为啥，只要知道不清除会有问题），点击安装许可证，安装完后，百度kms主机，填写在kms管理中kms主机中，或者用这个kms.03k.org，这些kms主机很可能会停止运作，所以打开cmd，输入ping kms主机号（ps：不要忘了空格），等待一段时间后若数据100%丢失不要再用了，换其他的。点击保存设置，再点激活，打开office后就激活成功了（ps：若Office Tool Plus出现报错不要理会，以office界面为准）。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs 回复词">回复词：office<br></code></pre></td></tr></table></figure><blockquote><p>今天内容就这么多，拜拜。</p></blockquote>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>office</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>友情链接（持续更新）</title>
+    <link href="/2022/06/02/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/"/>
+    <url>/2022/06/02/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5%EF%BC%88%E6%8C%81%E7%BB%AD%E6%9B%B4%E6%96%B0%EF%BC%89/</url>
+    
+    <content type="html"><![CDATA[<p>1.端水自由的Blog</p><p>国内：<a href="https://dszyblog.gitee.io/">端水自由的博客</a></p><p>国际GitHub：<a href="https://dszyblog.github.io/">端水自由的博客</a></p><p>国际Vercel：<a href="https://dszyblog.vercel.app/">端水自由的博客</a></p><p><img src="/../images/image-20220602214337273.png" alt="image-20220602214337273"></p><p>2.hotPE工具箱</p><p>HotPE工具箱：<a href="https://www.hotpe.top/">一个纯净、强大、优雅的PE工具箱</a></p><p><img src="/../images/image-20220602213610572.png" alt="image-20220602213610572"></p><p>3.系统派</p><p>系统派官网：<a href="https://dbmer.com/">系统派-轻松玩转苹果系统的少数派 </a></p><p><img src="/../images/image-20220602214213315.png" alt="image-20220602214213315"></p><p>4.Hexo</p><p>Hexo：<a href="https://hexo.io/zh-tw/">Hexo</a></p><p><img src="/../images/image-20220602214629448.png" alt="image-20220602214629448"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>友情</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2022/05/01/hello-world/"/>
+    <url>/2022/05/01/hello-world/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p><strong>Hello Word.</strong></p></blockquote><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
