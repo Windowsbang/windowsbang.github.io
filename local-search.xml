@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>国产系统测评——UOS</title>
+    <link href="/2022/07/03/UOS/"/>
+    <url>/2022/07/03/UOS/</url>
+    
+    <content type="html"><![CDATA[<blockquote><p><del>俗话说得好：世界系统哪家强，就到山东找蓝翔。</del></p></blockquote><p>好吧，世界系统仍被</p><ul><li><p>Windows</p></li><li><p>MacOS</p><p>这两大系统占领着，主导着。随着Windows的不断忧化，MacBook不断涨价。找一个替代品是现在的重中之重。这个替代品需要有MacOS的流畅，Windows的软件支持，最好还有Android的生态支持。这样好的系统究竟在哪呢？这不，他来了——</p></li></ul><p><a href="%E6%98%AF%E4%B8%80%E4%B8%AA%E8%9E%8D%E5%90%88%E5%A4%9A%E7%A7%8D%E7%B3%BB%E7%BB%9F%E7%89%B9%E8%89%B2%E7%9A%84Linux%E7%B3%BB%E7%BB%9F%E3%80%82" title="什么是UOS">统信UOS</a></p><p>统信官网</p><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">https:<span class="hljs-regexp">//</span>home.uniontech.com/<br></code></pre></td></tr></table></figure><p>进入官网后，有两种系统安装方式</p><ul><li>一键安装</li><li>安装光盘</li></ul><p><img src="https://files.mdnice.com/user/32895/0e102f53-4a56-4568-be02-974d34700b9a.png" alt="UOS官网"></p><blockquote><blockquote><p>在此，我选择了“一键安装”</p></blockquote></blockquote><blockquote><ol><li>打开安装程序（你需要保证你的D盘至少有35G空闲）</li></ol><blockquote><p>2.等待进度条走完，重启后设置系统</p><blockquote><p>3.开始享用UOS</p></blockquote></blockquote></blockquote><p>系统界面：</p><p><img src="https://files.mdnice.com/user/32895/bc33ad2b-eb86-4fd5-a82f-011535d96fe3.png" alt="启动器"></p><p><img src="https://files.mdnice.com/user/32895/a4145018-1f7f-48f8-9b1f-39f97e4350b1.png" alt="调度"></p><p><img src="https://files.mdnice.com/user/32895/87b32eef-26ef-4f36-b69e-f4fe61278652.png" alt="状态栏"></p><p>这精美的UI,这华丽的壁纸，这丝滑的操作，怎么也想不到他竟是一个国产操作系统。它不仅可以安装Windows可执行程序，甚至可以安装Android应用，可以说：“爱了爱了！”</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>UOS</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>软件推荐——一个图形化清理工具</title>
     <link href="/2022/06/10/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%BD%A2%E5%8C%96%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7/"/>
     <url>/2022/06/10/%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90%E2%80%94%E2%80%94%E4%B8%80%E4%B8%AA%E5%9B%BE%E5%BD%A2%E5%8C%96%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7/</url>
