@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>假U盘</title>
+    <link href="/2022/07/04/%E5%81%87U%E7%9B%98/"/>
+    <url>/2022/07/04/%E5%81%87U%E7%9B%98/</url>
+    
+    <content type="html"><![CDATA[<p>你们买到的是<mark>真</mark>U盘吗？</p><p>但是市场上有一些这样的平台，为了谋取利益，售卖<mark>扩容</mark>u盘。</p><p>扩容u盘就是原本u盘的容量并没有那么大，但是通过某种软件修改了u盘数据，将显示的容量修改。</p><p><img src="/../images/%E5%93%88%E5%93%88" alt="假U盘价格">（ps：16G一般30元以上)</p><p>如果某天你发现大容量的u盘，里面的文件突然打不开，连2G甚至几kb的文件也存储不了，那么你被扩容u盘坑了！！！！</p><p><img src="/../images/640.jpeg" alt="图片"></p><p><strong>检测u盘的真假方法！</strong></p><p>​    1、这种假u盘价格普遍低廉，通常靠标题吸引人。（也就是标题党）比如1T容量9.9元带回家。因此在电商平台购买的时候，要认准旗舰店。另外还有一个很现实的问题——钱，1、2T的U盘一般都是100元以上。</p><p>​    2、另外辨别u盘真假最简单的方法就是往u盘里传一个一样大小的文件，看看能不能传送完或者传输速度很慢，那么可以断定这个u盘有问题了。</p><p>​    3、也可以使用专业的软件测试u盘，将u盘接入电脑usb口，打开软件进行测试。</p><p>这种劣质的u盘，数据一旦丢失，就基本没有恢复的可能。</p><p><em><strong>*为什么我的U盘是正品下载速度也很慢呢？*</strong></em></p><p><strong>1.U盘可能中病毒了</strong></p><p>　U盘想要躲避病毒的侵袭?那你就要先了解U盘病毒运行的原理：其实U盘病毒运行是利用“ Autorun.inf ”文件，写入了对应的代码后，如果用户点击病毒就会自动运行了。在中了某些木马和病毒的U盘上会自动生成“Autorun.inf ”的隐藏系统文件，在你双击打开U盘的时候，那U盘中的病毒也随之激活了!而原本好好的系统也将中毒!</p><p>　　U盘中病毒后连锁反应：</p><p>　　依据上述原理，当我们插入U盘的时候，电脑会跳出一个让用户选择操作的对话框。此时您可千万不要进行任何的操作。点击“取消”即可。打开我的电脑，“右键点击”( 千万不要双击呀 )U盘。看看在最上面的是不是勾选了“自动播放”，如果是，那么祝贺您，您的U盘九成九是沾上病毒了。如果是“打开”，那么还好，可以说还算走运。不过可不是百分百。</p><p>　　即使U盘真的是中毒了，也没什么大不了的。此时的病毒还在睡梦中呢。我们只要删除它就OK了。</p><p><img src="/../images/640-16569358674844.jpeg" alt="图片"></p><p>　　删除U盘病毒的方法如下：</p><p>　　右键点击U盘，选“打开”。再打开窗口中的“工具”，点击文件夹选项，把“隐藏受保护的操作系统文件”上的勾去掉，选中“显示所有文件和文件夹”。然后找到U盘中的“autorun.inf”的文件。再打开这个文件，看它指向哪个文件，例如：“XXX.exe”。把这个文件和“autorun.inf”一并删除即可，这时你就可以放心的使用U盘了。同时别忘记把刚才修改的文件夹选项的那两个修改回来。</p><p>2.U盘老化</p><p>U盘老化那就考虑备份文件换新的吧。</p><p><strong>3.接口松动</strong></p><p>若接口松动，请重新插拔U盘</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>U盘</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>国产系统测评——UOS</title>
     <link href="/2022/07/03/UOS/"/>
     <url>/2022/07/03/UOS/</url>
@@ -122,7 +141,7 @@
     <link href="/2022/05/01/hello-world/"/>
     <url>/2022/05/01/hello-world/</url>
     
-    <content type="html"><![CDATA[<blockquote><p><strong>Hello Word.</strong></p></blockquote><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p><strong>Hello Word.</strong></p></blockquote><h2 id="单击开始"><a href="#单击开始" class="headerlink" title="单击开始"></a>单击开始</h2><h3 id="新建一篇文章"><a href="#新建一篇文章" class="headerlink" title="新建一篇文章"></a>新建一篇文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="运行预览服务"><a href="#运行预览服务" class="headerlink" title="运行预览服务"></a>运行预览服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成文件"><a href="#生成文件" class="headerlink" title="生成文件"></a>生成文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="上传至仓库"><a href="#上传至仓库" class="headerlink" title="上传至仓库"></a>上传至仓库</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
     
