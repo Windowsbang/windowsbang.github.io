@@ -4740,7 +4740,7 @@ h1.page-title + .tag-cloud-list {
   padding-right: 4px;
 }
 #waline-wrap textarea {
-  background: url("/img/wb.jpg") 100% 100% no-repeat;
+  background: url("https://waline.js.org/logo.png") 100% 100% no-repeat;
 }
 #waline-wrap textarea:focus {
   background-image: none;
